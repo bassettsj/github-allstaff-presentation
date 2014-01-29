@@ -1,10 +1,5 @@
+# Github for Collaboration #
 
-# Github for Collaboration
+Using github for issue tracking, page hosting and code collaboration.
 
-From the terminal, pop in:
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
