@@ -1,4 +1,4 @@
-##  Code Collaboration
+<h2>Code Collaboration <span class="fa fa-terminal" aria-hidden="true"></span></h2>
 
 This is what github was built for.
 
