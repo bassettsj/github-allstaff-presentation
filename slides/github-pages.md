@@ -1,7 +1,6 @@
 ##  Github Pages
 
-This is a new Markdown slide
+![Screenshot from mobile library site showing the directions to the library site.](img/library-mobile-site.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Github pages provides hosting for static sites. The library mobile site was updated and moved to github pages at no cost to the university.
