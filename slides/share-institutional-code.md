@@ -1,6 +1,10 @@
+<span class="fa fa-star fa-3x"></span>
+
 ##  Share Institutional Code
 
-This is a new Markdown slide
+* [Scholar OneSearch has gained a few "Stargazers"](https://github.com/NEU-Libraries/scholar-onesearch/stargazers)
+
+* Creates an [organizational platform](https://github.com/NEU-Libraries) to share our work.
 
 note:
     Put your speaker notes here.
